@@ -13,9 +13,7 @@
 
 # Usage:
 
-Let's take a look at a quick example of Http sever using CURL 
-
-Starting Server...
+Homepage...
 
     http://18.223.149.35:9000/
 
